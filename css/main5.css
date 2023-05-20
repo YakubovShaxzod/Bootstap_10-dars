@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+}
+.bg-1{
+    background-color: white;
+}
+.list-group-item{
+    border-bottom: 2px solid white !important;
+}
+span{
+    width: 25px !important;
+    transform: rotate(270deg);
+}
+.span.list-group-item:active{
+    width: 30px !important;
+    transform: rotate(10deg) !important;
+}
+.g01{
+    display: inline-block !important;
+
+}
